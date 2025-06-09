@@ -9,7 +9,7 @@ This project is part of my internship at **Skillcraft Technology** as a Data Sci
 
 The data is from a **Portuguese bank marketing campaign**, and the goal is to predict whether a client will subscribe to a term deposit (`y` column).
 
-- Source: [Moro et al., 2011](http://hdl.handle.net/1822/14838)
+- Source:[ [Moro et al., 2011](http://hdl.handle.net/1822/14838)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - Sample size: ~4,500 entries
 - Features: Age, job type, education, contact duration, and more
 
